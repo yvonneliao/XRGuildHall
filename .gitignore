@@ -1,1 +1,11 @@
 .DS_Store
+**/.DS_Store
+
+Unity/Library/
+Unity/Logs/
+Unity/Temp/
+Unity/obj/
+Unity/UserSettings/
+Unity/*.csproj
+Unity/*.sln
+Unity/.vscode/
